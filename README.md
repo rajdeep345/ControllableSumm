@@ -16,3 +16,21 @@
 **Summaries for Petra (with method names)**: https://forms.gle/q2QAErhmTYuVcKrq8
 
 ***Codes to be released soon..***
+
+### If you find this work helpful, please cite our paper ###
+@inproceedings{10.1145/3397271.3401269,  
+author = {Mukherjee, Rajdeep and Peruri, Hari Chandana and Vishnu, Uppada and Goyal, Pawan and Bhattacharya, Sourangshu and Ganguly, Niloy},  
+title = {Read What You Need: Controllable Aspect-Based Opinion Summarization of Tourist Reviews},  
+year = {2020},  
+isbn = {9781450380164},  
+publisher = {Association for Computing Machinery},  
+address = {New York, NY, USA},  
+url = {https://doi.org/10.1145/3397271.3401269},  
+doi = {10.1145/3397271.3401269},  
+booktitle = {Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval},  
+pages = {1825–1828},  
+numpages = {4},  
+keywords = {unsupervised extractive opinion summarization, tourism, controllable summarization, aspect-based opinion mining, personalization},  
+location = {Virtual Event, China},  
+series = {SIGIR ’20}  
+}
