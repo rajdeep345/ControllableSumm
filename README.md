@@ -2,7 +2,7 @@
 
 ## Link to the paper (accepted at SIGIR 2020): https://dl.acm.org/doi/pdf/10.1145/3397271.3401269 ##
 
-### Link to the demo: https://tinyurl.com/summodemo ###
+<!-- ### Link to the demo: https://tinyurl.com/summodemo ### -->
 
 **Anonymous survey forms to compare Tourist Review summaries for:**
 * Chichen Itza, Mexico: https://forms.gle/qLmJKvFCMWbRpSRq6
